@@ -16,6 +16,13 @@
 		url("fonts/cantarell-regular-webfont.woff") format("woff");
 } 
 
+
+.teko-exception {
+	font-family: "Teko", sans-serif;
+	font-size: 2rem;
+	line-height: 2.5rem;
+}
+
 html {
 	font-size: 10px;
 	margin: 0;
